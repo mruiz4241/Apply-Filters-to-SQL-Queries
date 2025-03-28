@@ -1,1 +1,4 @@
-# Apply-Filters-to-SQL-Queries
+# Apply Filters to SQL Queries
+
+### Project description
+
